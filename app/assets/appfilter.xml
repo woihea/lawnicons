@@ -2798,6 +2798,7 @@
   <item component="ComponentInfo{com.miui.securitycenter/com.miui.securitycenter.MainActivity}" drawable="mi_security" name="MIUI Security" />
   <item component="ComponentInfo{com.miui.securitycenter/com.miui.securityscan.MainActivity}" drawable="mi_security" name="MIUI Security" />
   <item component="ComponentInfo{com.miui.miservice/com.miui.miservice.main.MainActivity}" drawable="miui_services_feedback" name="MIUI Services and feedback" />
+  <item component="ComponentInfo{de.kaiserdragon.iconrequest/de.kaiserdragon.iconrequest.MainActivity}" drawable="miuizzjh" name="Miuizzjh" />
   <item component="ComponentInfo{es.upv.miUpv/es.upv.miUpv.MainActivitysalto}" drawable="miupv" name="miUPV" />
   <item component="ComponentInfo{com.mixplorer.beta/com.mixplorer.activities.BrowseActivity}" drawable="mixplorer" name="MiXplorer" />
   <item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}" drawable="mixplorer" name="MiXplorer" />
