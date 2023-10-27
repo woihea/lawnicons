@@ -237,6 +237,7 @@
   <item component="ComponentInfo{com.menny.android.anysoftkeyboard/com.menny.android.anysoftkeyboard.LauncherSettingsActivity}" drawable="anysoftkeyboard" name="AnySoftKeyboard" />
   <item component="ComponentInfo{com.vitolaminafra.imagetopip/com.vitolaminafra.imagetopip.MainActivity}" drawable="anything_to_pip" name="Anything to PiP" />
   <item component="ComponentInfo{com.shervinkoushan.anyTracker/com.shervinkoushan.anyTracker.ui.help.StartUpActivity}" drawable="anytracker" name="AnyTracker" />
+  <item component="ComponentInfo{com.absinthe.anywhere_/com.absinthe.anywhere_.MainAliasActivity}" drawable="anywhere" name="Anywhere" />
   <item component="ComponentInfo{com.ea.gp.apexlegendsmobilefps/com.epicgames.ue4.GameActivity}" drawable="apex_legends" name="Apex Legends Mobile" />
   <item component="ComponentInfo{com.apkmirror.helper.prod/com.apkmirror.presentation.start.StartActivity}" drawable="apkmirror_installer" name="APKMirror Installer" />
   <item component="ComponentInfo{com.apkpure.aegon/com.apkpure.aegon.main.activity.SplashActivity}" drawable="apkpure" name="APKPure" />
@@ -1990,6 +1991,7 @@
   <item component="ComponentInfo{com.mihoyo.hoyolab/com.mihoyo.hoyolab.splash.splash.HoYoSplashActivity}" drawable="hoyolab" name="HoYoLAB" />
   <item component="ComponentInfo{tr.com.hsbc.hsbcturkey/tr.com.hsbc.hsbcturkey.DEFAULT}" drawable="hsbc" name="HSBC" />
   <item component="ComponentInfo{com.evozi.injector/com.evozi.injector.views.MainActivity}" drawable="http_injector" name="HTTP Injector" />
+  <item component="ComponentInfo{com.guoshi.httpcanary/com.guoshi.httpcanary.ui.SplashActivity}" drawable="httpcanary" name="Httpcanary" />
   <item component="ComponentInfo{com.huawei.genexcloud.speedtest/com.huawei.genexcloud.speedtest.ui.SplashActivity}" drawable="huabancesu" name="huabancesu" />
 	<item component="ComponentInfo{com.huawei.health/com.huawei.health.MainActivity}" drawable="huawei_health" name="Huawei Health" />
   <item component="ComponentInfo{com.hudaapp.android/com.hudaapp.android.screens.MainActivity}" drawable="huda" name="Huda" />
@@ -3904,6 +3906,7 @@
   <item component="ComponentInfo{com.rarlab.rar/com.rarlab.rar.MainActivity}" drawable="rar" name="RAR" />
   <item component="ComponentInfo{com.mlk.rockamring/com.appmiral.splash.SplashActivity}" drawable="rock_am_ring" name="RAR &amp; RIP" />
   <item component="ComponentInfo{com.skyd.rays/com.skyd.rays.ui.activity.MainActivity}" drawable="rays" name="Rays" />
+  <item component="ComponentInfo{de.dertyp7214.rboardthememanager/de.dertyp7214.rboardthememanager.screens.MainActivity}" drawable="rboard" name="Rboard" />
   <item component="ComponentInfo{me.ash.reader/me.ash.reader.MainActivity}" drawable="read_you" name="Read You" />
   <item component="ComponentInfo{org.readera/com.readera.MainActivity}" drawable="read_era" name="ReadEra" />
   <item component="ComponentInfo{com.devgary.ready/com.devgary.ready.activity.MainActivity}" drawable="reddit" name="Ready" />
@@ -4255,6 +4258,7 @@
   <item component="ComponentInfo{com.shopify.arrive/com.shopify.arrive.MainActivity}" drawable="shopify_shop" name="Shopify Shop" />
   <item component="ComponentInfo{com.x7890.shortcutcreator/com.x7890.shortcutcreator.AppListActivity}" drawable="shortcut_creator" name="Shortcut Creator" />
   <item component="ComponentInfo{rk.android.app.shortcutmaker/rk.android.app.shortcutmaker.CommonMethods.SplashScreenActivity}" drawable="shortcut_maker" name="Shortcut Maker" />
+  <item component="ComponentInfo{tornaco.apps.shortx/tornaco.apps.shortx.ui.main.MainActivity}" drawable="shortx" name="ShortX" />
   <item component="ComponentInfo{app.shosetsu.android.fdroid/app.shosetsu.android.activity.MainActivity}" drawable="shosetsu" name="Shosetsu" />
   <item component="ComponentInfo{com.jesperh.showyoutubedislikes/com.jesperh.showyoutubedislikes.MainActivity}" drawable="show_youtube_dislikes" name="Show Youtube Dislikes" />
   <item component="ComponentInfo{com.michaldrabik.showly2/com.michaldrabik.showly2.ui.main.MainActivity}" drawable="showly" name="Showly" />
